@@ -106,9 +106,9 @@ body {
 
 /* Estilos de botón */
 .button-container {
-    display: flex; /* Coloca los botones en línea */
-    justify-content: center; /* Centra los botones horizontalmente */
-    gap: 10px; /* Espacio entre los botones */
+    display: flex; 
+    justify-content: center; 
+    gap: 10px; 
 }
 
 button {
