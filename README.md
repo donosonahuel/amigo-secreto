@@ -1,4 +1,6 @@
-<h1 align="center">Desafio - AMIGO SECRETO</h1>
+<h1 align="center">Desafío - AMIGO SECRETO</h1>
+
+![Visualización del desafío "Amigo Secreto"](https://github.com/user-attachments/assets/0cf6b184-2523-4ae7-ab14-b673e34cee98)
 
 <h2>Descripción</h2>
 <p>Un proyecto de parte de Alura haciendo un juego demostrando el desarrollo en programación principalmente en Javascript.</p>
