@@ -105,6 +105,12 @@ body {
 }
 
 /* Estilos de botón */
+.button-container {
+    display: flex; /* Coloca los botones en línea */
+    justify-content: center; /* Centra los botones horizontalmente */
+    gap: 10px; /* Espacio entre los botones */
+}
+
 button {
     padding: 15px 30px;
     font-family: "Inter", sans-serif;
@@ -124,6 +130,7 @@ button {
 .button-add:hover {
     background-color: #a1a1a1;
 }
+
 
 /* Listas */
 ul {
