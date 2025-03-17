@@ -48,3 +48,11 @@ function sortearAmigo() {
     const resultado = document.getElementById('resultado');
     resultado.innerHTML = `<li>El amigo secreto es: ${amigoSecreto}</li>`;
 }
+
+// Función para reiniciar el juego
+function nuevoJuego() {
+    amigos = []; // Vaciar el array de nombres
+    document.getElementById('listaAmigos').innerHTML = ""; // Limpiar la lista visual
+    document.getElementById('resultado').innerHTML = ""; // Limpiar el resultado del sorteo
+    alert("¡Nuevo juego iniciado! Puedes agregar nuevos nombres."); // Mensaje para el nuevo juego
+}
